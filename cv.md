@@ -1,4 +1,4 @@
-# Serikbayev Damir
+#Serikbayev Damir
 
 - ##Contacts
   - email:
@@ -40,9 +40,9 @@ contract GameToken is ERC20{
 
 ###Education<br/>
 
-##### Karaganda University of Kazpotrebsouz [keu](https://www.keu.kz/en/)
+#####Karaganda University of Kazpotrebsouz [keu](https://www.keu.kz/en/)
 
-### Languages<br/>
+###Languages<br/>
 
 - Kazakh
   - C1
