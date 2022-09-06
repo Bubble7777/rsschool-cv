@@ -22,7 +22,7 @@ I work on various methodologies: Waterfall, Agile, Scrum. I know how to understa
 - Dart/Flutter
 - C#
 - Agile/Scrum
-- Ide
+- IDE
 - UML
 
 ```solidity
@@ -54,5 +54,3 @@ contract GameToken is ERC20{
   - A2
 - German
   - B1
-- Kazakh
-  - C1
