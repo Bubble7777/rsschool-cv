@@ -9,12 +9,12 @@
 - discord:
   - Lacki(@Bubble7777)
 
-## About me<br/>
+## About me
 
 My first education is in economics, at the moment I am getting a second higher education in KEUK in the discipline of information systems. I work as a blockchain developer in a Kazakhstan company.
 I work on various methodologies: Waterfall, Agile, Scrum. I know how to understand someone else's code. Work experience in a multilingual team, conducting retrospectives. I conduct business correspondence in English.
 
-## Skills<br/>
+## Skills
 
 - HTML&CSS
 - JS
@@ -38,15 +38,15 @@ contract GameToken is ERC20{
 }
 ```
 
-### Experience<br/>
+### Experience
 
 1 year - blockchain developer [My code](https://github.com/Bubble7777?tab=repositories)
 
-### Education<br/>
+### Education
 
 ##### Karaganda University of Kazpotrebsouz [KEU](https://www.keu.kz/en/)
 
-### Languages<br/>
+### Languages
 
 - Kazakh
   - C1
