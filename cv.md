@@ -1,6 +1,6 @@
-#Serikbayev Damir
+# Serikbayev Damir
 
-- ##Contacts
+- ## Contacts
   - email:
     - sdmmds93@gmail.com
   - linkedin
@@ -8,11 +8,12 @@
   - discord:
     - Lacki(@Bubble7777)
 
-##**About me**<br/>
+## **About me**<br/>
+
 My first education is in economics, at the moment I am getting a second higher education in KEUK in the discipline of information systems. I work as a blockchain developer in a Kazakh company.
 I work on various methodologies: Waterfall, Agile, Scrum. I know how to understand someone else's code. Work experience in a multilingual team, conducting retrospectives. I conduct business correspondence in English.
 
-- ##Skills<br/>
+- ## Skills<br/>
   - HTML&CSS
   - JS
   - Solidity
@@ -35,14 +36,15 @@ contract GameToken is ERC20{
 }
 ```
 
-###Experience<br/>
+### Experience<br/>
+
 1 year - blockchain developer [keu](https://www.keu.kz/en/)[My code](https://github.com/Bubble7777?tab=repositories)
 
-###Education<br/>
+### Education<br/>
 
-#####Karaganda University of Kazpotrebsouz [keu](https://www.keu.kz/en/)
+##### Karaganda University of Kazpotrebsouz [keu](https://www.keu.kz/en/)
 
-###Languages<br/>
+### Languages<br/>
 
 - Kazakh
   - C1
